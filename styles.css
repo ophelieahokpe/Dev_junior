@@ -1,0 +1,43 @@
+h1{
+color: red;
+front-size: 2rem;
+}
+
+p {
+color:blue
+}
+
+h3 {
+    color:green
+}
+
+ul {
+    color:#9f950e
+}
+
+ol {
+    color:red
+    text-decoration: none;
+    bacKground-color: #11e9e1;
+}
+
+#monprofil{
+    background-color: #ee800a
+    with:50%
+    feight: 50px;
+}
+
+section ul{
+    background-color:aquamarine
+}
+
+.codjo
+color:#8c9100
+text-decoration: overline dashed #0004e0
+text-align: right;
+background-color: #e0e0e0
+width: 25%
+height:50px
+position: relative;
+justify-content: center;
+left: 50%;
